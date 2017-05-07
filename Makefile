@@ -3,4 +3,4 @@
 nothing:
 
 all:
-	ls
+	ls -l
